@@ -1,2 +1,1 @@
-# hackerrank
-simple codes
+print("hello github")
